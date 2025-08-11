@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    border: 1px solid;
+    width: 190px;
+    /* Padding */
+
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px;
+
+    /* Margin */
+    margin-top: 10px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+
+    /* border */
+
+    /* border-radius: 50%; */
+
+    border-top: 2px dashed red;
+    border-right: 7px dotted blue;
+    border-bottom: 9px double aqua;
+    border-left: 6px solid orangered;
+}
